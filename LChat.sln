@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LChat", "LChat\LChat.csproj", "{AD0EBA09-C1BB-41AF-885E-3DF8E21B106B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD0EBA09-C1BB-41AF-885E-3DF8E21B106B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0EBA09-C1BB-41AF-885E-3DF8E21B106B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0EBA09-C1BB-41AF-885E-3DF8E21B106B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AD0EBA09-C1BB-41AF-885E-3DF8E21B106B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0EBA09-C1BB-41AF-885E-3DF8E21B106B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD0EBA09-C1BB-41AF-885E-3DF8E21B106B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4178213F-1898-4C39-ADC7-D0094FA6F0E0}
+	EndGlobalSection
+EndGlobal
